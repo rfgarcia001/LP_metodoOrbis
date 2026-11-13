@@ -1,0 +1,3 @@
+# Publish only the landing page from the repository root.
+*
+!index.html
